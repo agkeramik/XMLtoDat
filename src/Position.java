@@ -16,13 +16,9 @@ public class Position {
 
 	public void setRot(double rot) {
 		this.rot = rot;
-//		if (this.rot < 0)
-//			this.rot += 2 * Math.PI;
-//		if (this.rot >= 2 * Math.PI)
-//			this.rot -= 2 * Math.PI;
-		if (this.rot < -Math.PI*0.25)
+		if (this.rot < 0)
 			this.rot += 2 * Math.PI;
-		if (this.rot >= 7 * Math.PI/4)
+		if (this.rot >= 2 * Math.PI)
 			this.rot -= 2 * Math.PI;
 	}
 
