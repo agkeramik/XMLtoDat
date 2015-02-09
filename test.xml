@@ -1,0 +1,136 @@
+<root>
+<Room>
+<Furnitures>
+<Furniture width="132.1" depth="10.451842" height="134.0" rotation="1.5707964">
+<CatalogId>eTeks#doubleWindow126x123</CatalogId>
+<Name>Double small window</Name>
+<Position posX="355.35922" posY="198.34541"/>
+</Furniture>
+<Furniture width="91.4" depth="14.838928" height="208.3" rotation="4.712389">
+<CatalogId>eTeks#door</CatalogId>
+<Name>Door</Name>
+<Position posX="1.7481079" posY="343.3194"/>
+</Furniture>
+<Furniture width="174.0" depth="92.0" height="87.0" rotation="0.0">
+<CatalogId>Renouzate#sofa2</CatalogId>
+<Name>sofa2</Name>
+<Position posX="172.89459" posY="58.761505"/>
+</Furniture>
+<Furniture width="48.600002" depth="118.700005" height="130.90001" rotation="1.5707964">
+<CatalogId>Renouzate#TVTable</CatalogId>
+<Name>TVTable</Name>
+<Position posX="175.78522" posY="376.15616"/>
+</Furniture>
+<Furniture width="90.0" depth="90.0" height="44.0" rotation="0.0">
+<CatalogId>Renouzate#Table2x2</CatalogId>
+<Name>Table2x2</Name>
+<Position posX="165.4657" posY="198.5788"/>
+</Furniture>
+<Furniture width="45.0" depth="45.0" height="44.0" rotation="0.0">
+<CatalogId>Renouzate#Table1x1</CatalogId>
+<Name>Table1x1</Name>
+<Position posX="298.01193" posY="70.29871"/>
+</Furniture>
+<Furniture width="38.5" depth="52.0" height="98.0" rotation="4.712389">
+<CatalogId>Renouzate#regularChair</CatalogId>
+<Name>Regular Chair</Name>
+<Position posX="41.28557" posY="162.33917"/>
+</Furniture>
+<Furniture width="38.5" depth="52.0" height="98.0" rotation="4.712389">
+<CatalogId>Renouzate#regularChair</CatalogId>
+<Name>Regular Chair</Name>
+<Position posX="40.09555" posY="228.98087"/>
+</Furniture>
+<Furniture width="174.0" depth="92.0" height="87.0" rotation="1.5707964">
+<CatalogId>Renouzate#sofa2</CatalogId>
+<Name>sofa2</Name>
+<Position posX="301.17926" posY="200.81967"/>
+</Furniture>
+</Furnitures>
+<Walls>
+<Wall>
+<Start x="356.77502" y="-3.353775"/>
+<End x="356.77502" y="404.26617"/>
+</Wall>
+<Wall>
+<Start x="356.77502" y="404.26617"/>
+<End x="-0.8451538" y="404.26617"/>
+</Wall>
+<Wall>
+<Start x="-0.8451538" y="404.26617"/>
+<End x="-0.8451538" y="-3.353775"/>
+</Wall>
+<Wall>
+<Start x="-0.8451538" y="-3.353775"/>
+<End x="356.77502" y="-3.353775"/>
+</Wall>
+</Walls>
+</Room>
+<Room>
+<Furnitures>
+<Furniture width="91.4" depth="14.8" height="208.3" rotation="4.712389">
+<CatalogId>eTeks#door</CatalogId>
+<Name>Door</Name>
+<Position posX="1940.5922" posY="824.4147"/>
+</Furniture>
+<Furniture width="132.1" depth="10.451842" height="209.90001" rotation="1.5707964">
+<CatalogId>eTeks#doubleFrenchWindow126x200</CatalogId>
+<Name>Double French window</Name>
+<Position posX="2294.203" posY="681.6712"/>
+</Furniture>
+<Furniture width="174.0" depth="92.0" height="87.0" rotation="0.0">
+<CatalogId>Renouzate#sofa2</CatalogId>
+<Name>sofa2</Name>
+<Position posX="2120.9634" posY="535.37933"/>
+</Furniture>
+<Furniture width="174.0" depth="92.0" height="87.0" rotation="4.712389">
+<CatalogId>Renouzate#sofa2</CatalogId>
+<Name>sofa2</Name>
+<Position posX="1987.809" posY="674.04596"/>
+</Furniture>
+<Furniture width="45.0" depth="45.0" height="44.0" rotation="0.0">
+<CatalogId>Renouzate#Table1x1</CatalogId>
+<Name>Table1x1</Name>
+<Position posX="1989.8645" posY="534.98505"/>
+</Furniture>
+<Furniture width="45.0" depth="45.0" height="44.0" rotation="0.0">
+<CatalogId>Renouzate#Table1x1</CatalogId>
+<Name>Table1x1</Name>
+<Position posX="2249.4644" posY="536.3442"/>
+</Furniture>
+<Furniture width="135.0" depth="90.0" height="44.0" rotation="4.712389">
+<CatalogId>Renouzate#Table3x2</CatalogId>
+<Name>Table3x2</Name>
+<Position posX="2122.725" posY="685.99963"/>
+</Furniture>
+<Furniture width="154.0" depth="25.0" height="250.0" rotation="3.1415927">
+<CatalogId>Renouzate#fireplaceInWall</CatalogId>
+<Name>Fireplace In Wall</Name>
+<Position posX="2116.4001" posY="869.0515"/>
+</Furniture>
+<Furniture width="68.0" depth="83.0" height="100.0" rotation="2.3561945">
+<CatalogId>Renouzate#armchair</CatalogId>
+<Name>Armchair</Name>
+<Position posX="2238.422" posY="828.165"/>
+</Furniture>
+</Furnitures>
+<Walls>
+<Wall>
+<Start x="2295.6187" y="477.74152"/>
+<End x="2295.6187" y="885.3615"/>
+</Wall>
+<Wall>
+<Start x="2295.6187" y="885.3615"/>
+<End x="1937.9989" y="885.3615"/>
+</Wall>
+<Wall>
+<Start x="1937.9989" y="885.3615"/>
+<End x="1937.9989" y="477.74152"/>
+</Wall>
+<Wall>
+<Start x="1937.9989" y="477.74152"/>
+<End x="2295.6187" y="477.74152"/>
+</Wall>
+</Walls>
+</Room>
+</root>
