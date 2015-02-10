@@ -90,6 +90,8 @@ public class GenerateDat {
 			}
 			outputFile.close();
 			System.out.println(ct);
+			if(furnId1.equals(furnId2))
+				return ct/2;
 			return ct;
 		} catch (Exception e) {
 			e.printStackTrace();
